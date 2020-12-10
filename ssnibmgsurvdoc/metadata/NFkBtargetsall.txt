@@ -1,0 +1,490 @@
+Index	Gene	Type
+1	TNFSF13B	Cytokine
+2	BLIMP1	Cytokine
+3	PRDM1	Cytokine
+4	CCL5	Cytokine
+5	CCL15	Cytokine
+6	CCL17	Cytokine
+7	CCL19	Cytokine
+8	CCL20	Cytokine
+9	CCL22	Cytokine
+10	CCL23	Cytokine
+11	CCL28	Cytokine
+12	CXCL1	Cytokine
+13	CXCL11	Cytokine
+14	CXCL10	Cytokine
+15	CXCL3	Cytokine
+16	CXCL1	Cytokine
+17	GRO-beta	Cytokine
+18	GRO-gamma	Cytokine
+19	CXCL1	Cytokine
+20	ICOS	Cytokine
+21	IFNG	Cytokine
+22	IL1A	Cytokine
+23	IL1B	Cytokine
+24	IL1RN	Cytokine
+25	IL2	Cytokine
+26	IL6	Cytokine
+27	IL8	Cytokine
+28	IL9	Cytokine
+29	IL10	Cytokine
+30	IL11	Cytokine
+31	IL12B	Cytokine
+32	IL12A	Cytokine
+33	IL13	Cytokine
+34	IL15	Cytokine
+35	IL17	Cytokine
+36	IL23A	Cytokine
+37	IL27	Cytokine
+38	EBI3	Cytokine
+39	IFNB1	Cytokine
+40		Cytokine
+41	CXCL5	Cytokine
+42	KC	Cytokine
+43	Iigp1	Cytokine
+44	CXCL5	Cytokine
+45	CXCL6	Cytokine
+46	LTA	Cytokine
+47	LTB	Cytokine
+48	CCL2	Cytokine
+49		Cytokine
+50		Cytokine
+51	CXCL9	Cytokine
+52	CCL3	Cytokine
+53	CCL4	Cytokine
+54	CCL4	Cytokine
+55	CXCL3	Cytokine
+56	CCL20	Cytokine
+57	CXCL10	Cytokine
+58	CXCL5	Cytokine
+59	CCL5	Cytokine
+60	CCL1	Cytokine
+61	TNF	Cytokine
+62	LTA	Cytokine
+63	TNFSF10	Cytokine
+64	TFF3	Cytokine
+65	TNFSF15	Cytokine
+66	Human Gene Name	
+67	CD80	Immunoreceptor
+68	BLR1	Immunoreceptor
+69	CCR5	Immunoreceptor
+70	CCR7	Immunoreceptor
+71	IL8RA	Immunoreceptor
+72	IL8RB	Immunoreceptor
+73	TNFRSF9	Immunoreceptor
+74	CD40LG	Immunoreceptor
+75	CD3G	Immunoreceptor
+76	CR2	Immunoreceptor
+77	CD38	Immunoreceptor
+78	CD40	Immunoreceptor
+79	CD48	Immunoreceptor
+80	CD83	Immunoreceptor
+81	CD86	Immunoreceptor
+82	SLC3A2	Immunoreceptor
+83	TNFRSF4	Immunoreceptor
+84	F11R	Immunoreceptor
+85	FCGRT	Immunoreceptor
+86	FCER2	Immunoreceptor
+87	HLA-G	Immunoreceptor
+88	ICOS	Immunoreceptor
+89	IL2RA	Immunoreceptor
+90	IGHG2	Immunoreceptor
+91	IGHG1	Immunoreceptor
+92	IGHG4	Immunoreceptor
+93	IGHE	Immunoreceptor
+94	IGKC	Immunoreceptor
+95		Immunoreceptor
+96	BDKRB1	Immunoreceptor
+97		Immunoreceptor
+98	HLA-B	Immunoreceptor
+99	B2M	Immunoreceptor
+100	NOD2	Immunoreceptor
+101	pIgR	Immunoreceptor
+102	PGLYRP1	Immunoreceptor
+103	TCRB	Immunoreceptor
+104	CD3G	Immunoreceptor
+105	TLR2	Immunoreceptor
+106	TLR9	Immunoreceptor
+107	TNFRSF1B	Immunoreceptor
+108	TREM1	Immunoreceptor
+109	Human Gene Name	
+110	CFB	AntigenPresent
+111	C3	AntigenPresent
+112	CR2	AntigenPresent
+113	PSMB9	AntigenPresent
+114	TAP1	AntigenPresent
+115	TAPBP	AntigenPresent
+116	Human Gene Name	
+117	CD44	CellAdhesionMolecule
+118	CD209	CellAdhesionMolecule
+119	SELE	CellAdhesionMolecule
+120	ENG	CellAdhesionMolecule
+121	FN1	CellAdhesionMolecule
+122	CD54	CellAdhesionMolecule
+123	MADCAM1	CellAdhesionMolecule
+124	NCAM	CellAdhesionMolecule
+125	SELP	CellAdhesionMolecule
+126	TNC	CellAdhesionMolecule
+127	VCAM1	CellAdhesionMolecule
+128	AGT	AcutePhaseProtein
+129	DEFB2	AcutePhaseProtein
+130	C4BPA	AcutePhaseProtein
+131	CFB	AcutePhaseProtein
+132	C4A	AcutePhaseProtein
+133	CRP	AcutePhaseProtein
+134	HAMP	AcutePhaseProtein
+135	LBP	AcutePhaseProtein
+136	PTX3	AcutePhaseProtein
+137	SAA1	AcutePhaseProtein
+138	SAA2	AcutePhaseProtein
+139	SAA3	AcutePhaseProtein
+140	F3	AcutePhaseProtein
+141	PLAU	AcutePhaseProtein
+142	Human Gene Name	
+143	CYP2E1	Stress Response Genes
+144	CYP2C11	Stress Response Genes
+145	CYP7B1	Stress Response Genes
+146	PTGS2	Stress Response Genes
+147	FTH1	Stress Response Genes
+148	GCLC	Stress Response Genes
+149	GCLM	Stress Response Genes
+150	HSP90AA1	Stress Response Genes
+151	ALOX5	Stress Response Genes
+152	ALOX12	Stress Response Genes
+153	NOS2A	Stress Response Genes
+154	MAP4K1	Stress Response Genes
+155	SENP2	Stress Response Genes
+156	SOD1	Stress Response Genes
+157	SOD1	Stress Response Genes
+158	SOD2	Stress Response Genes
+159	MX1	Stress Response Genes
+160	NQO1	Stress Response Genes
+161	PLA2	Stress Response Genes
+162	SELS	Stress Response Genes
+163	Human Gene Name	
+164	ABCA1	Cell Surface Receptor
+165	ABCC6	Cell Surface Receptor
+166	ADORA1	Cell Surface Receptor
+167	ADORA2A	Cell Surface Receptor
+168	ADAM19	Cell Surface Receptor
+169	SCNN1A	Cell Surface Receptor
+170	ADRA2B	Cell Surface Receptor
+171	BDKRB1	Cell Surface Receptor
+172	FCER2/CD23	Cell Surface Receptor
+173	C69	Cell Surface Receptor
+174	OPRD1	Cell Surface Receptor
+175	EGFR	Cell Surface Receptor
+176	ERBB2	Cell Surface Receptor
+177	KISS1	Cell Surface Receptor
+178	OLR1	Cell Surface Receptor
+179	KLRA1	Cell Surface Receptor
+180	ABCB4	Cell Surface Receptor
+181	OPRM1	Cell Surface Receptor
+182	GRM2	Cell Surface Receptor
+183	NPY1R	Cell Surface Receptor
+184	GRIN2A	Cell Surface Receptor
+185	GRIN1	Cell Surface Receptor
+186	OXTR	Cell Surface Receptor
+187	PTAFR	Cell Surface Receptor
+188	ABCB1	Cell Surface Receptor
+189	AGER	Cell Surface Receptor
+190	Human Gene Name	
+191	PYCARD	Apoptosis regulator
+192	BAX	Apoptosis regulator
+193	BCL2A1	Apoptosis regulator
+194	BCL2L1	Apoptosis regulator
+195	BCL2	Apoptosis regulator
+196	BCL2L11	Apoptosis regulator
+197	CD274	Apoptosis regulator
+198	BNIP3	Apoptosis regulator
+199	CASP4	Apoptosis regulator
+200		Apoptosis regulator
+201	CFLAR	Apoptosis regulator
+202	FAS	Apoptosis regulator
+203	CIDEA	Apoptosis regulator
+204	PTPN13	Apoptosis regulator
+205	FASLG	Apoptosis regulator
+206		Apoptosis regulator
+207	IER3	Apoptosis regulator
+208	TRAF1	Apoptosis regulator
+209	TRAF2	Apoptosis regulator
+210	TIFA	Apoptosis regulator
+211	XIAP	Apoptosis regulator
+212	Human Gene Name	
+213	INHBA	Growth factor, ligand
+214	ANGPT1	Growth factor, ligand
+215	PI3KAP1	Growth factor, ligand
+216	BDNF	Growth factor, ligand
+217	TNFSF13B	Growth factor, ligand
+218	BLNK	Growth factor, ligand
+219	BMP2	Growth factor, ligand
+220	BMP4	Growth factor, ligand
+221	CALCB	Growth factor, ligand
+222	FGF8	Growth factor, ligand
+223	FSTL3	Growth factor, ligand
+224	CSF3	Growth factor, ligand
+225	CSF2	Growth factor, ligand
+226	HGF	Growth factor, ligand
+227	EPO	Growth factor, ligand
+228	IGFBP1	Growth factor, ligand
+229	IGFBP2	Growth factor, ligand
+230	CSF1	Growth factor, ligand
+231	MDK	Growth factor, ligand
+232	NGFB	Growth factor, ligand
+233	TACR1	Growth factor, ligand
+234	NK4	Growth factor, ligand
+235	NRG1	Growth factor, ligand
+236	SPP1	Growth factor, ligand
+237	PDGFB	Growth factor, ligand
+238	PIGF	Growth factor, ligand
+239	PENK	Growth factor, ligand
+240	PRL	Growth factor, ligand
+241	KITLG	Growth factor, ligand
+242	THBS1	Growth factor, ligand
+243	THBS2	Growth factor, ligand
+244	VEGFC	Growth factor, ligand
+245	WNT10B	Growth factor, ligand
+246	Human Gene Name	
+247	TNFAIP2	Early response genes
+248	EGR1	Early response genes
+249	IER3	Early response genes
+250	DCTN4	Early response genes
+251	KLF10	Early response genes
+252	Human Gene Name	
+253	TNFAIP3	TF and modulators
+254	TNIP3	TF and modulators
+255	AR	TF and modulators
+256	BCL3	TF and modulators
+257	BMI1	TF and modulators
+258	CDX1	TF and modulators
+259	FOS	TF and modulators
+260	MYB	TF and modulators
+261	MYC	TF and modulators
+262	REL	TF and modulators
+263	CEBPD	TF and modulators
+264	ZNF366	TF and modulators
+265	DMP1	TF and modulators
+266	E2F3	TF and modulators
+267	ELF3	TF and modulators
+268	AHCTF1	TF and modulators
+269	IER2	TF and modulators
+270	GATA3	TF and modulators
+271	NR3C1	TF and modulators
+272	HIF1A	TF and modulators
+273	HOXA9	TF and modulators
+274	IRF1	TF and modulators
+275	IRF2	TF and modulators
+276	IRF4	TF and modulators
+277	IRF7	TF and modulators
+278	NFKBIA	TF and modulators
+279		TF and modulators
+280		TF and modulators
+281	NFKBIE	TF and modulators
+282	JUNB	TF and modulators
+283	JMJD3	TF and modulators
+284	LEF1	TF and modulators
+285	CREB3	TF and modulators
+286	NFKBIZ	TF and modulators
+287	NFKB2	TF and modulators
+288	NFKB1	TF and modulators
+289	NLRP2	TF and modulators
+290	NR4A2	TF and modulators
+291	Osterix	TF and modulators
+292	TP53	TF and modulators
+293	PGR	TF and modulators
+294	SPI1	TF and modulators
+295	RELB	TF and modulators
+296	SNAI1	TF and modulators
+297	SOX9	TF and modulators
+298	STAT5A	TF and modulators
+299	TFEC	TF and modulators
+300	TWIST1	TF and modulators
+301	WT1	TF and modulators
+302	YY1	TF and modulators
+303	Human Gene Name	
+304	ABCB9	Enzymes
+305	GCNT1	Enzymes
+306	ADH1A	Enzymes
+307	AICDA	Enzymes
+308	AMACR	Enzymes
+309	ARFRP1	Enzymes
+310	ASS1	Enzymes
+311	CYP19A1	Enzymes
+312	ART1	Enzymes
+313	SERPINA3	Enzymes
+314	BACE1	Enzymes
+315	BTK	Enzymes
+316	CTSB	Enzymes
+317	CTSL1	Enzymes
+318	CDK6	Enzymes
+319	UGCGL1	Enzymes
+320	CHI3L1	Enzymes
+321	Rdh1	Enzymes
+322	Rdh7	Enzymes
+323	MMP1	Enzymes
+324	AKR1C1	Enzymes
+325	DPYD	Enzymes
+326	DNASE1L2	Enzymes
+327	LIPG	Enzymes
+328	ENO2	Enzymes
+329	GAD1	Enzymes
+330	ST8SIA1	Enzymes
+331	NOX1	Enzymes
+332	MMP9	Enzymes
+333	GSTP1	Enzymes
+334	GCLC	Enzymes
+335	GCLC	Enzymes
+336	GCLM	Enzymes
+337	GCLC	Enzymes
+338	G6PD	Enzymes
+339	G6PC	Enzymes
+340	GNRH2	Enzymes
+341	GZMB	Enzymes
+342	GUCY1A2	Enzymes
+343	HPSE	Enzymes
+344	HMOX1	Enzymes
+345	HAS1	Enzymes
+346	HSD11B2	Enzymes
+347	HSD17B8	Enzymes
+348	ATP1A2	Enzymes
+349	DIO2	Enzymes
+350	IDO1	Enzymes
+351	PTGDS	Enzymes
+352	LYZ	Enzymes
+353	MTHFR	Enzymes
+354	DUSP1	Enzymes
+355	MMP3	Enzymes
+356	MMP9	Enzymes
+357	MYLK	Enzymes
+358	NOS2A	Enzymes
+359	NOS1	Enzymes
+360	PDE7A	Enzymes
+361	PIM1	Enzymes
+362	PLK3	Enzymes
+363	PIK3CA	Enzymes
+364	PPP5C	Enzymes
+365	PRKACA	Enzymes
+366	PRKCD	Enzymes
+367	PLCD1	Enzymes
+368	PTGIS	Enzymes
+369	PTGES	Enzymes
+370	PTPN1	Enzymes
+371	PTHLH	Enzymes
+372	GNB2L1	Enzymes
+373	REV3L	Enzymes
+374	Slfn2	Enzymes
+375	SERPINA2	Enzymes
+376	ST6GAL1	Enzymes
+377	NUAK2	Enzymes
+378	SAT1	Enzymes
+379	SUPV3L1	Enzymes
+380	TERT	Enzymes
+381	TGM1	Enzymes
+382	TGM2	Enzymes
+383	PAFAH2	Enzymes
+384	UPP1	Enzymes
+385	XDH	Enzymes
+386	Human Gene Name	
+387	ABCG5	Miscellaneous
+388	ABCG8	Miscellaneous
+389	ASPH	Miscellaneous
+390	ORM1	Miscellaneous
+391	AFP	Miscellaneous
+392	AMH	Miscellaneous
+393	A4	Miscellaneous
+394	APOBEC2	Miscellaneous
+395	APOC3	Miscellaneous
+396	APOD	Miscellaneous
+397	APOE	Miscellaneous
+398	AQP4	Miscellaneous
+399	BGN	Miscellaneous
+400	BRCA2	Miscellaneous
+401	MYOZ1	Miscellaneous
+402	CAV1	Miscellaneous
+403		Miscellaneous
+404		Miscellaneous
+405		Miscellaneous
+406	CDKN1A	Miscellaneous
+407	CLDN2	Miscellaneous
+408	COL1A2	Miscellaneous
+409	GJB1	Miscellaneous
+410	CCND1	Miscellaneous
+411	CCND2	Miscellaneous
+412	CCND3	Miscellaneous
+413	IER3	Miscellaneous
+414	SLC11A2	Miscellaneous
+415	SKALP, PI3	Miscellaneous
+416	EDN1	Miscellaneous
+417	EPHA1	Miscellaneous
+418	F8	Miscellaneous
+419	FTH1	Miscellaneous
+420	GADD45B	Miscellaneous
+421	GNAI2	Miscellaneous
+422	MT3	Miscellaneous
+423	LGALS3	Miscellaneous
+424	GBP1	Miscellaneous
+425	HBE1	Miscellaneous
+426	HBZ	Miscellaneous
+427	IFI44L	Miscellaneous
+428	KRT5	Miscellaneous
+429	VPS53	Miscellaneous
+430	HMGN1	Miscellaneous
+431	FABP6	Miscellaneous
+432	IGFBP2	Miscellaneous
+433	KRT3	Miscellaneous
+434	KRT6B	Miscellaneous
+435	KRT15	Miscellaneous
+436	LTF	Miscellaneous
+437	LAMB2	Miscellaneous
+438	LCN2	Miscellaneous
+439	S100A4	Miscellaneous
+440		Miscellaneous
+441		Miscellaneous
+442		Miscellaneous
+443	SERPINB1	Miscellaneous
+444	MUC2	Miscellaneous
+445	MBP	Miscellaneous
+446	SLC16A1	Miscellaneous
+447	TNIP1	Miscellaneous
+448	LCN2	Miscellaneous
+449	FAM148A	Miscellaneous
+450	S100A10	Miscellaneous
+451	PSME1	Miscellaneous
+452	PSME2	Miscellaneous
+453	SERPINE1, PAI-1	Miscellaneous
+454	PAX8	Miscellaneous
+455	PTS	Miscellaneous
+456	PRF1	Miscellaneous
+457	PPARGC1B	Miscellaneous
+458	PGK1	Miscellaneous
+459	POMC	Miscellaneous
+460	CGM3	Miscellaneous
+461	PDYN	Miscellaneous
+462	KLK3	Miscellaneous
+463	PTEN	Miscellaneous
+464	RAG1	Miscellaneous
+465	RAG2	Miscellaneous
+466	RBBP4	Miscellaneous
+467	RIPK2	Miscellaneous
+468	SERPINE2	Miscellaneous
+469	S100A6	Miscellaneous
+470	SH3BGRL	Miscellaneous
+471	KCNN2	Miscellaneous
+472	SKP2	Miscellaneous
+473	SPATA19	Miscellaneous
+474	OPN1SW	Miscellaneous
+475	ERVWE1	Miscellaneous
+476	SDC4	Miscellaneous
+477	SLC6A6	Miscellaneous
+478	KCNK5	Miscellaneous
+479	TFPI2	Miscellaneous
+480	TF	Miscellaneous
+481	TICAM1	Miscellaneous
+482	TRPC1	Miscellaneous
+483	UBE2M	Miscellaneous
+484	UCP2	Miscellaneous
+485	UPK1B	Miscellaneous
+486	CYP27B1	Miscellaneous
+487	VIM	Miscellaneous
+488	SERPINA1	Miscellaneous
+489	CXCL1	Miscellaneous

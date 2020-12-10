@@ -1,0 +1,9 @@
+study.id	age
+GSE26378	Child
+GSE26440	Child
+GSE4607	Child
+GSE9692	Child
+GSE48080	Adult
+GSE54514	Adult
+GSE63042	Adult
+GSE95233	Adult
