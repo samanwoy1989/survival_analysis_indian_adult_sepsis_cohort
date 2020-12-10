@@ -15,8 +15,11 @@ https://figshare.com/ (search for ssnibmgsurv)
 > install.packages(pkgs=``ssnibmgsurv_1.0.tar.gz'', repos=NULL)
 4. Now the data package ssnibmg is installed on your computer.
 5. Check with the following command:
+
 > library(“ssnibmgsurv”)
+
 > library(“ssgeosurv”)
+
 ### Step 2: Running the analysis code
 6. Dowload the file ssnibmgsurvdoc.zip from
 https://figshare.com/ (search for ssnibmgsurv)
